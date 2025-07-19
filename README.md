@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lord-of-vaegirs
-- 👀 I’m interested in AI for security.
-- 🌱 I’m currently learning commands on linux.
+- 👀 I’m interested in Information security.
+- 🌱 I’m currently learning reverse engineering & infiltrating.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me: outlookmail:lxj133_1226@outlook.com ; gmail: lxj133.1226abroad@gmail.com
 - 😄 Pronouns: ...
